@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# playing chess and cricket.
+# writing peotry
+# searching about new algorithm in matlab
