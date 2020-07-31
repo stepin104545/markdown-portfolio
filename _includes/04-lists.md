@@ -1,3 +1,3 @@
-# playing chess and cricket.
-# writing peotry
-# searching about new algorithm in matlab
+- playing chess and cricket.
+- writing peotry
+- searching about new algorithm in matlab
